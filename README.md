@@ -143,7 +143,7 @@ permanently reset karne ke liye yani ki abhi tak kabhi ise commit hi na kiya gya
     git reset --hard <-HASh address->
 
 -------------------------------------------------------------------------------
-# HADH ADD. KO DEKHNE KE LIYE
+# HASH ADD. KO DEKHNE KE LIYE
 
     git log
 
